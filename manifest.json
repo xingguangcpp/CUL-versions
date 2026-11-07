@@ -4,17 +4,17 @@
       "name": "6.1 体验版",
       "gameVersion": "6.1",
       "url": "https://github.com/xingguangcpp/CUL-versions/releases/download/v6.1/game-6.1.zip",
-      "size": 0,
-      "sha256": "",
-      "note": "占位：把 game-6.1.zip 传到 v6.1 Release 后即可下载"
+      "size": 577284704,
+      "sha256": "d163a8730cf33b61eeee6b8a955d215c0be3584f874f85a9fffe6cb14e3a2956",
+      "note": "551 MB · GitHub Release 直链"
     },
     {
       "name": "7.0.1 体验版",
       "gameVersion": "7.0.1",
       "url": "https://github.com/xingguangcpp/CUL-versions/releases/download/v7.0.1/game-7.0.1.zip",
-      "size": 0,
-      "sha256": "",
-      "note": "占位：把 game-7.0.1.zip 传到 v7.0.1 Release 后即可下载"
+      "size": 582419539,
+      "sha256": "4b379378b150a58f6377bb3202b76646ccd213651559c6b0179e67e5983897da",
+      "note": "555 MB · GitHub Release 直链"
     }
   ]
 }

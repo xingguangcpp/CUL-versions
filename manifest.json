@@ -31,6 +31,14 @@
       "size": 62853474,
       "sha256": "1447c02e24c943a84732a3b0389765304574d2eb50113f2a499bda34f4f34efd",
       "note": "59.9 MB · GitHub Release 直链"
+    },
+    {
+      "name": "v1.1CUL启动器",
+      "gameVersion": "一点一版本",
+      "url": "https://github.com/xingguangcpp/CUL-versions/releases/download/v1.1/CuLauncher.zip",
+      "size": 62853474,
+      "sha256": "c73bd80cc35eaf2096fac0df947f773d9a06706ade991ccfcf208a3a2587aea9",
+      "note": "59.9 MB · GitHub Release 直链"
     }
   ]
 }
